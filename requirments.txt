@@ -1,0 +1,10 @@
+asgiref==3.7.2
+Aspose.Slides==23.5.0
+Django==4.2.2
+lxml==4.9.2
+Pillow==9.5.0
+python-pptx==0.6.21
+sqlparse==0.4.4
+thumbnail==1.5
+tzdata==2023.3
+XlsxWriter==3.1.2
